@@ -8,5 +8,6 @@ public class Social {
         a.Introduce();
         b.Introduce();
         a.ASK("How are u?");
+        b.ASK("I'm good.");
     }
 }
